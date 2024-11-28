@@ -149,7 +149,7 @@ const experiences = [
     company_name: 'Freelance',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Nov 2023 - Present',
+    date: 'Jun 2024 - Present',
   },
 ];
 
